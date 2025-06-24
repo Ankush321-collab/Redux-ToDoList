@@ -10,7 +10,7 @@ const AddToDo = ({todo,settodo}) => {
     
       settodo((prevtodo)=>[
         ...prevtodo,
-        {id:todo.length,title:input,completed:false}
+        {id:prevtodo.length,title:input,completed:false}
       ]);
     
   

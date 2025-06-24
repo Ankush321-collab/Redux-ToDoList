@@ -3,6 +3,8 @@ import React from 'react';
 const ShowTodo = ({ todo, settodo }) => {
   const realtodo = todo.filter((todos) => todos.title);
 
+  const filteredtodo=todos.filter((t)=>t.title);
+
   return (
     <div className='flex flex-col justify-center items-center max-w-4xl mt-3'>
       <p className='text-xl text-shadow-black font-bold'>All Todos</p>
