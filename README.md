@@ -10,7 +10,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ankush321-collab/your-repo-name.git
    cd your-repo-name/state
    ```
 
@@ -53,4 +53,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Feel free to customize this README with your project’s name, description, and GitHub URL!**
